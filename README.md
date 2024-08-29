@@ -1,6 +1,6 @@
 # QR Code Generator
 
-![QR Code Generator Demo](./demo.gif)
+![QR Code Generator Demo](./)
 
 ## Description
 
@@ -13,11 +13,11 @@ QR Code Generator is a simple web application that allows you to generate QR cod
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Demo
 
-You can access the live demo of the QR Code Generator [here](https://kaushaldhrangad.github.io/qr-code-generator/).
+You can access the live demo of the QR Code Generator [here](https://ankitab78.github.io/QR-code-generator/).
 
 ## Features
 
