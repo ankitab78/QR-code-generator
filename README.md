@@ -1,6 +1,8 @@
 # QR Code Generator
 
 ![QR Code Generator Demo](./qr1.png)
+<br>
+![QR Code Generator Demo](./qr.png)
 
 ## Description
 
