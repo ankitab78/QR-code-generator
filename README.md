@@ -55,7 +55,7 @@ cd qr-code-generator
 
 ## Contributing
 
-Contributions to the QR Code Generator project are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request on the [GitHub repository](https://github.com/kaushaldhrangad/qr-code-generator).
+Contributions to the QR Code Generator project are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request on the [GitHub repository](https://github.com/ankitab78/QR-code-generator.git).
 
 
 
