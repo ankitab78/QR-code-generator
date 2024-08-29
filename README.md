@@ -32,8 +32,7 @@ As the QR Code Generator is a client-side application, you can use it directly w
 
 1. Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/kaushaldhrangad/qr-code-generator.git
+```bashgit@github.com:ankitab78/QR-code-generator.git
 ```
 
 2. Navigate to the project directory:
@@ -58,9 +57,7 @@ cd qr-code-generator
 
 Contributions to the QR Code Generator project are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request on the [GitHub repository](https://github.com/kaushaldhrangad/qr-code-generator).
 
-## License
 
-This project is open-source and available under the [MIT License](https://github.com/kaushaldhrangad/qr-code-generator/blob/master/LICENSE).
 
  ## Feature - Under Development
 
